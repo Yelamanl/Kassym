@@ -1,0 +1,50 @@
+name: car_rental_app
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.3.8
+  get_storage: ^2.0.3
+  connectivity: ^3.0.6
+  flutter_svg: ^0.22.0
+  device_info_plus: ^2.1.0
+  http: ^1.1.0
+  dio: ^5.3.3
+  month_picker_dialog: ^2.0.2
+  intl: ^0.18.1
+  smooth_page_indicator: ^1.0.0+2
+  flutter_rating_bar: ^4.0.0
+  flutter_zoom_drawer: ^2.3.1
+  timeline_tile: ^2.0.0
+  flutter_calendar_carousel: ^2.1.0
+  firebase_auth: ^4.10.0
+  firebase_core: ^2.16.0
+  carousel_slider: ^4.0.0
+  url_launcher: ^6.0.20
+  flutter_switch: ^0.3.2
+  fluttertoast: ^8.0.8
+  google_maps_flutter: ^2.5.0
+  location: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/svgs/
+    - assets/images/
+

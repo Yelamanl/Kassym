@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "201027882555",
+    "project_id": "carrentalapp-8d642",
+    "storage_bucket": "carrentalapp-8d642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201027882555:android:2584d533042b2f0e67561e",
+        "android_client_info": {
+          "package_name": "com.example.car_rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201027882555-c9f5i4d0jprbsserhign3nsvv5kdvgft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_rental_app",
+            "certificate_hash": "a5b4deee497732647decaa184ff09b9ab752c69e"
+          }
+        },
+        {
+          "client_id": "201027882555-2rpliuv2jdcgde3mkpku7shev63g6o37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKh0KAVXMjQDauUeLLFULwemW5OWg7yyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201027882555-2rpliuv2jdcgde3mkpku7shev63g6o37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201027882555-7vel2kv4sftrr0afj9pcmbra800rf0j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carrentalowner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201027882555:android:bf00ab4766eeccfa67561e",
+        "android_client_info": {
+          "package_name": "com.example.carrentalowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201027882555-to6d323la3fjnm0saaa2rae5lvo5e1lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carrentalowner",
+            "certificate_hash": "1fc17e709d125c30a892870f41ff23630dd1d504"
+          }
+        },
+        {
+          "client_id": "201027882555-2rpliuv2jdcgde3mkpku7shev63g6o37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKh0KAVXMjQDauUeLLFULwemW5OWg7yyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201027882555-2rpliuv2jdcgde3mkpku7shev63g6o37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201027882555-7vel2kv4sftrr0afj9pcmbra800rf0j9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carrentalowner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
